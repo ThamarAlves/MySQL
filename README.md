@@ -3,4 +3,8 @@ Começando a modelar no MySQL. Treinando a variação do modelo entidade relacio
  
 1º -  Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE;
 
-2º -  Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica;
+2º -  Sistema de controle e gerenciamento de execução de ordens de serviço em uma Oficina Mecânica;
+
+3º - Projeto Logico Banco de Dados E - Commerce II;
+
+4º - Projeto Logico Banco de Dados Oficina Mecânica II;
